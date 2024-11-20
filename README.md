@@ -1,16 +1,30 @@
-# food_recipe_app
+# Recipe App
 
-A new Flutter project.
+A dynamic Flutter-based mobile application designed for discovering, managing, and sharing recipes seamlessly.
+
+---
+
+## Features
+- **Cross-Platform Support**: Runs smoothly on both Android and iOS devices.
+- **Interactive UI**: Engaging and user-friendly interface created with Flutter widgets.
+- **Recipe Management**: Browse and manage recipes efficiently through the app.
+- **Offline Capability**: Save and access recipes even without internet connectivity (planned for future versions).
+
+---
+
+## Technology Stack
+- **Framework**: Flutter
+- **Programming Language**: Dart
+- **Development Tools**: Android Studio, Mobile Emulators
+
+---
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+1. Install Flutter and Dart on your development machine.
+   [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
+2. Install Android Studio and set up the necessary tools.
+3. Clone the repository:
+   ```bash
+   git clone https://github.com/Mohit-03Sharma/Recipe_app.git
+   cd Recipe_app
