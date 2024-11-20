@@ -31,7 +31,9 @@ A dynamic Flutter-based mobile application designed for discovering, managing, a
 ### Running the Application
 1. Open the project in Android Studio or your preferred IDE.
 2. Run the following command to fetch dependencies:
-     flutter pub get
-3. Use the Flutter command-line tools or IDE features to run the app:
-     flutter run   
+   ```bash
+   flutter pub get
+4. Use the Flutter command-line tools or IDE features to run the app:
+   ```bash
+   flutter run   
    
