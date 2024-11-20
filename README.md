@@ -48,6 +48,6 @@ A dynamic Flutter-based mobile application designed for discovering, managing, a
    git commit -m "Added a new feature"
 4. Push your branch:
   ```bash
-  git push origin feature-name
+   git push origin feature-name
 5. Open a Pull Request.   
    
