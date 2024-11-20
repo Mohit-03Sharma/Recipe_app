@@ -43,11 +43,14 @@ A dynamic Flutter-based mobile application designed for discovering, managing, a
 2. Create a branch:
    ```bash
    git checkout -b feature-name
+   
 3. Make your changes and commit:
   ```bash
-   git commit -m "Added a new feature"
+  git commit -m "Added a new feature"
+
 4. Push your branch:
   ```bash
-   git push origin feature-name
+  git push origin feature-name
+
 5. Open a Pull Request.   
    
